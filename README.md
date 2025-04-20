@@ -107,7 +107,7 @@ Meeting Summary:
 
 **👨‍💻 Author**
 
-Built with ❤️ by [YourName]  
+Built with ❤️ by Rahul Mittal  
 Connect on LinkedIn: https://www.linkedin.com/in/rahulm28/
 
 ---
